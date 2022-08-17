@@ -67,7 +67,7 @@ Contributors
 -Aditi Sharma
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@Rajiniparimala] - feel free to contact me!
 
 
 <!-- Optional -->
